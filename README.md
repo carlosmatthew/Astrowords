@@ -23,4 +23,5 @@ This happens because the build is unsigned and not recognized by Microsoft.
 
 ### ✅ It's safe — built directly from Unity with no external injectors or installers.
 
-!about images/game_document.png
+![About](images/game_document.png)
+

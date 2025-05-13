@@ -13,7 +13,7 @@ Mouse – Navigate menus and buttons
 🚀 Astrowords – Type fast. Shoot meteors. Save the galaxy.
 The original arcade-style typing game where precision and speed decide your fate.
 
-# 🕷️ Astrowords: Version 2 – ƎⱯЯ⊥H
+# Version 2 – ƎⱯЯ⊥H
 👁️ WⱯⱤИIИG: Something... is watching.
 An eerie twist on Astrowords where the darkness whispers — and the [ENTER] key reveals a secret shockwave ability.
 

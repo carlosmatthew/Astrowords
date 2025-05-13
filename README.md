@@ -22,3 +22,5 @@ You may get a **Windows protected your PC** warning when launching the .exe.
 This happens because the build is unsigned and not recognized by Microsoft.
 
 ### ✅ It's safe — built directly from Unity with no external injectors or installers.
+
+!about images/my-photo.png

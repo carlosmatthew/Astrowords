@@ -17,8 +17,8 @@ The original arcade-style typing game where precision and speed decide your fate
 👁️ WⱯⱤИIИG: Something... is watching.
 An eerie twist on Astrowords where the darkness whispers — and the [ENTER] key reveals a secret shockwave ability.
 
-# ⚠️ Windows Defender Warning
+## ⚠️ Windows Defender Warning
 You may get a **Windows protected your PC** warning when launching the .exe.
 This happens because the build is unsigned and not recognized by Microsoft.
 
-## ✅ It's safe — built directly from Unity with no external injectors or installers.
+### ✅ It's safe — built directly from Unity with no external injectors or installers.
